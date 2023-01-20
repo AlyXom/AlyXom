@@ -13,5 +13,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=Css3&logoColor=1572B6)
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlyXom&show_icons=true&theme=dark&icon_color=9b34eb&include_all_commits=true&ring_color=9b34eb">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlyXom&show_icons=true&theme-vision-friendly-dark">
+<h1>GitHub Analytics</h1>
+
+<img width="350px" src="https://github-readme-stats.vercel.app/api?username=AlyXom&theme=dark&ring_color=9b34eb&show_icons=true&icon_color=9b34eb">
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlyXom&show_icons=true&theme=dark&icon_color=9b34eb&include_all_commits=true&ring_color=9b34eb">
+
+<h1>Social Links</h1>
+
+<a href="https://www.instagram.com/alyxom_/">
+  <img src="https://img.shields.io/badge/-AlyXom__-05122A?style=flat&logo=instagram">
+</a>
