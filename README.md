@@ -16,7 +16,7 @@
 <h1>GitHub Analytics</h1>
 
 <img width="350px" src="https://github-readme-stats.vercel.app/api?username=AlyXom&theme=dark&ring_color=9b34eb&show_icons=true&icon_color=9b34eb">
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlyXom&show_icons=true&theme=dark&icon_color=9b34eb&include_all_commits=true&ring_color=9b34eb">
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlyXom&show_icons=true&theme=dark&icon_color=9b34eb&include_all_commits=true&ring_color=9b34eb&layout=compact">
 
 <h1>Social Links</h1>
 
